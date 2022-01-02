@@ -491,6 +491,7 @@ header nav .form i {
 .portfolio .shuffle li {
   padding: 10px;
   margin: 0 0 0 10px;
+  cursor: pointer;
 }
 .portfolio .shuffle li:hover {
   background-color: var(--main-color);
