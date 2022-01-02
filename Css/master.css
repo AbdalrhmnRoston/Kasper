@@ -1189,4 +1189,12 @@ header nav .form i {
 .footer .copyright span {
   color: var(--main-color);
 }
+.footer .dev {
+  margin-top: 10px;
+}
+.footer .dev > a {
+  color: var(--main-color);
+  font-weight: bold;
+  text-decoration: none;
+}
 /* End Footer */
