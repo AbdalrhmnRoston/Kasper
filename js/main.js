@@ -72,7 +72,7 @@ function changeBackWithArrows (el) {
     if (el.classList.contains('fas')) {
     ++gener
         if (gener <= 3) {
-            landing.style.cssText = `background-image: url(../img/landing${gener}.jpg);` 
+            landing.style.cssText = `background-image: url(img/landing${gener}.jpg);` 
             changebullWithArrows(gener);
         } if (gener === 3) {
             gener = 0;
